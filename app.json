@@ -25,14 +25,14 @@
     "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.mikocg.my-app"
+      "bundleIdentifier": "com.mikocg.tamagui_app"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.mikocg.tamagui-app"
+      "package": "com.mikocg.tamagui_app"
     },
     "extra": {
       "router": {
